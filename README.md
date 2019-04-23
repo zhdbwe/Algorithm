@@ -11,3 +11,6 @@ a few algorithm in my study.
   - 2.[close_pair in plane]( https://github.com/zhdbwe/Algorithm/blob/master/divide-and-conquer/cloest_pair_1.cpp )
 
 ---
+- 2 dynamic planning
+
+---
